@@ -54,3 +54,6 @@ dkms.conf
 # Local files
 *.vscode/
 *.dat
+
+#CodeBlocks project
+*.cbp
