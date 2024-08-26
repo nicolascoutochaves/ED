@@ -1,0 +1,168 @@
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.026262 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.010364 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005186 segundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.025678 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.010286 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005647 segundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.027717 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.011447 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005159 segundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.029196 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.011879 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005231 segundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.027079 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.011492 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005022 segundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.026652 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.016599 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005117 segundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0.027973 segundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0.012171 segundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0.005267 segundos

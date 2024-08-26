@@ -1,0 +1,15 @@
+========  ESTATÍSTICAS ABP ============
+Numero de Nodos: 339
+Altura: 16
+Rotações: 0
+Comparações: 164032
+
+
+========  ESTATÍSTICAS AVL ============
+Numero de Nodos: 339
+Altura 10
+Rotações: 150
+Comparações: 135374
+
+Process returned 0 (0x0)   execution time : 0.199 s
+Press any key to continue.

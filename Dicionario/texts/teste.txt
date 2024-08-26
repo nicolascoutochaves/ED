@@ -1,0 +1,8 @@
+casa house
+arvore tree
+cavalo horse
+macaco monkey
+entrada input
+saida exit
+teclado keyboard
+atualmente hoje em dia

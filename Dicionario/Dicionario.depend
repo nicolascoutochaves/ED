@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1724355532 source:c:\users\nicolas.chaves\documents\c\dicionario\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvores.h"
+
+1724349545 c:\users\nicolas.chaves\documents\c\dicionario\src\arvores.h
+
+1724345118 source:c:\users\nicolas.chaves\documents\c\dicionario\src\avl.c
+	<stdio.h>
+	<stdlib.h>
+	"arvores.h"
+
+1724355633 source:c:\users\nicolas.chaves\documents\c\dicionario\src\splay.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"arvores.h"
+
