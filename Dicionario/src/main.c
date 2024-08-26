@@ -168,22 +168,19 @@ Splay* SPLAY_Switch(Splay *a){
 
 
 void OpenFiles(char *argv[]){
-    dicionario = fopen(argv[1], "r");
-    entrada = fopen((argv[2]), "r");
-    saida = fopen((argv[3]), "w");
-
-    if(!dicionario){
+    if(!(dicionario = fopen(argv[1], "r"))){
         printf("Erro ao abrir o arquivo %s", *argv[1]);
         exit(1);
     }
-    if(!entrada){
+    if(!(entrada = fopen(argv[2], "r"))){
         printf("Erro ao abrir o arquivo %s", *argv[2]);
         exit(1);
     }
-    if(!saida){
+    if(!(saida = fopen(argv[3], "w"))){
         printf("Erro ao abrir o arquivo %s", *argv[3]);
         exit(1);
     }
+   
 }
 
 void PrintStats(clock_t start, clock_t end, char string[]){
