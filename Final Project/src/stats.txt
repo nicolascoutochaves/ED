@@ -7,7 +7,7 @@ Altura da arvore: 306
 Numero de comparacoes: 1369851
 Numero de comparacoes na busca: 1263756
 Numero de rotacoes: 0
-Tempo decorrido: 0,032844 segundos
+Tempo decorrido: 0,032844 milissegundos
 ==========================================
 Arvore: AVL
 Numero de nos: 339
@@ -15,7 +15,7 @@ Altura da arvore: 11
 Numero de comparacoes: 1372287
 Numero de comparacoes na busca: 77120
 Numero de rotacoes: 873
-Tempo decorrido: 0,011408 segundos
+Tempo decorrido: 0,011408 milissegundos
 ==========================================
 Arvore: SPLAY
 Numero de nos: 339
@@ -23,7 +23,7 @@ Altura da arvore: 20
 Numero de comparacoes: 135625
 Numero de comparacoes na busca: 44455
 Numero de rotacoes: 68221
-Tempo decorrido: 0,005362 segundos
+Tempo decorrido: 0,005362 milissegundos
 
 ========================================================
 
@@ -37,7 +37,7 @@ Altura da arvore: 16
 Numero de comparacoes: 96615
 Numero de comparacoes na busca: 89902
 Numero de rotacoes: 0
-Tempo decorrido: 0,005482 segundos
+Tempo decorrido: 0,005482 milissegundos
 ==========================================
 Arvore: AVL
 Numero de nos: 339
@@ -45,7 +45,7 @@ Altura da arvore: 10
 Numero de comparacoes: 1426492
 Numero de comparacoes na busca: 76236
 Numero de rotacoes: 600
-Tempo decorrido: 0,011889 segundos
+Tempo decorrido: 0,011889 milissegundos
 ==========================================
 Arvore: SPLAY
 Numero de nos: 339
@@ -53,4 +53,28 @@ Altura da arvore: 20
 Numero de comparacoes: 145594
 Numero de comparacoes na busca: 46906
 Numero de rotacoes: 70455
-Tempo decorrido: 0,005218 segundos
+Tempo decorrido: 0,005218 milissegundos
+==========================================
+Arvore: ABP
+Numero de nos: 339
+Altura da arvore: 306
+Numero de comparacoes: 1369851
+Numero de comparacoes na busca: 1263756
+Numero de rotacoes: 0
+Tempo decorrido: 0,028598 milissegundos
+==========================================
+Arvore: AVL
+Numero de nos: 339
+Altura da arvore: 11
+Numero de comparacoes: 1372287
+Numero de comparacoes na busca: 77120
+Numero de rotacoes: 873
+Tempo decorrido: 0,010680 milissegundos
+==========================================
+Arvore: SPLAY
+Numero de nos: 339
+Altura da arvore: 20
+Numero de comparacoes: 135625
+Numero de comparacoes na busca: 44455
+Numero de rotacoes: 68221
+Tempo decorrido: 0,004928 milissegundos

@@ -196,7 +196,7 @@ void PrintStats(clock_t start, clock_t end, char string[]){
         fprintf(stats, "Numero de comparacoes: %d\n", count_comp);
         fprintf(stats, "Numero de comparacoes na busca: %d\n", count_search);
         fprintf(stats, "Numero de rotacoes: %d\n", n_rotacoes);
-        fprintf(stats, "Tempo decorrido: %f segundos\n", (double)(end - start) / CLOCKS_PER_SEC);
+        fprintf(stats, "Tempo decorrido: %f milissegundos\n", (double)(end - start) / CLOCKS_PER_SEC);
         fclose(stats);
     }
     printf("Numero de nos: %d\n", n_nodes);
@@ -204,7 +204,7 @@ void PrintStats(clock_t start, clock_t end, char string[]){
     printf("Numero de comparacoes: %d\n", count_comp);
     printf("Numero de comparacoes na busca: %d\n", count_search);
     printf("Numero de rotacoes: %d\n", n_rotacoes);
-    printf("Tempo decorrido: %f segundos\n", (double)(end - start) / CLOCKS_PER_SEC);
+    printf("Tempo decorrido: %f milisegundos\n", (double)(end - start) / CLOCKS_PER_SEC);
     puts("\n");
 }
 
