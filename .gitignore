@@ -57,3 +57,5 @@ dkms.conf
 
 #CodeBlocks project
 *.cbp
+*.depend
+*.layout
